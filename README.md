@@ -12,9 +12,25 @@ How to use Webstorm
 
 5. Start connecting Github to Webstorm by opening Webstorm
 
-6. In System Preferences, under versional control, select Git.
+6. In System Preferences, under versional control, select Git. Enter default path to git.exe
 
+7. Set up Github password for Webstorm. In System Preferences, select appearance and behavior, System settings, and then Passwords.
 
+8.Create a Repository in Github
+
+9.Create Readme file in repository
+
+10. In Webstorm, select File, New, Project from Version Control
+
+11. Connect in Github Account
+
+12. The repository from Github should show up
+
+13. The Github repository is now displayable in Webstorm
+
+14. Use commit to document your changes
+
+15. Use push to save and update the repositories with your new changes
 
 *Glossary*
 
